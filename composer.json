@@ -16,7 +16,7 @@
         "imrandevbd/laravel-unicode-pdf": "dev-main",
         "imrandevbd/laravel-universal-slug": "dev-main",
         "laravel/framework": "^12.0",
-        "laravel/sanctum": "^4.3",
+        "laravel/sanctum": "^4.0",
         "laravel/tinker": "^3.0",
         "spatie/laravel-activitylog": "^5.1",
         "spatie/laravel-permission": "^8.3"
