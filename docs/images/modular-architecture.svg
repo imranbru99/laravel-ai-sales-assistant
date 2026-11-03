@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="100%" height="100%">
+  <defs>
+    <linearGradient id="archBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="440" rx="20" fill="url(#archBg)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <g transform="translate(45, 35)">
+    <text x="0" y="0" font-family="sans-serif" font-weight="900" font-size="20" fill="#ffffff">SYSTEM ARCHITECTURE &amp; PACKAGE TOPOLOGY</text>
+    <text x="0" y="22" font-family="sans-serif" font-size="12" fill="#94a3b8">Multi-tenant, multi-branch, modular enterprise engine powered by Imran Dev BD packages</text>
+  </g>
+
+  <!-- Layer 1: Presentation & Panels -->
+  <g transform="translate(45, 80)">
+    <rect width="810" height="65" rx="10" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="20" y="22" font-family="sans-serif" font-weight="800" font-size="11" fill="#60a5fa">PRESENTATION &amp; MULTI-PANEL FILAMENT LAYER</text>
+    <g transform="translate(20, 30)">
+      <rect width="135" height="24" rx="5" fill="#0f172a"/>
+      <text x="67" y="16" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#f8fafc">/super-admin</text>
+
+      <rect x="145" y="0" width="135" height="24" rx="5" fill="#0f172a"/>
+      <text x="212" y="16" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#f59e0b">/app (CRM/ERP)</text>
+
+      <rect x="290" y="0" width="135" height="24" rx="5" fill="#0f172a"/>
+      <text x="357" y="16" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#38bdf8">/portal (Clients)</text>
+
+      <rect x="435" y="0" width="135" height="24" rx="5" fill="#0f172a"/>
+      <text x="502" y="16" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#a855f7">/partner (Affiliates)</text>
+
+      <rect x="580" y="0" width="190" height="24" rx="5" fill="#0f172a"/>
+      <text x="675" y="16" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="700" fill="#34d399">/ (Public Marketing + Demo)</text>
+    </g>
+  </g>
+
+  <!-- Layer 2: 76 Module Registry -->
+  <g transform="translate(45, 160)">
+    <rect width="810" height="65" rx="10" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="20" y="22" font-family="sans-serif" font-weight="800" font-size="11" fill="#fbbf24">76 DYNAMIC MODULE REGISTRY (ON / OFF SWITCHABLE)</text>
+    <g transform="translate(20, 30)">
+      <rect width="80" height="24" rx="5" fill="#0f172a"/><text x="40" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">AI Core (5)</text>
+      <rect x="90" y="0" width="80" height="24" rx="5" fill="#0f172a"/><text x="130" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">CRM (10)</text>
+      <rect x="180" y="0" width="105" height="24" rx="5" fill="#0f172a"/><text x="232" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">Commerce (8)</text>
+      <rect x="295" y="0" width="105" height="24" rx="5" fill="#0f172a"/><text x="347" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">Marketing (8)</text>
+      <rect x="410" y="0" width="85" height="24" rx="5" fill="#0f172a"/><text x="452" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">Service (6)</text>
+      <rect x="505" y="0" width="85" height="24" rx="5" fill="#0f172a"/><text x="547" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">HR (7)</text>
+      <rect x="600" y="0" width="80" height="24" rx="5" fill="#0f172a"/><text x="640" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">Field (4)</text>
+      <rect x="690" y="0" width="80" height="24" rx="5" fill="#0f172a"/><text x="730" y="16" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#cbd5e1">Gov (15)</text>
+    </g>
+  </g>
+
+  <!-- Layer 3: Imran Dev BD Packages Integration -->
+  <g transform="translate(45, 240)">
+    <rect width="810" height="85" rx="10" fill="#0b1120" stroke="#10b981" stroke-width="1.5"/>
+    <text x="20" y="22" font-family="sans-serif" font-weight="800" font-size="11" fill="#34d399">FIRST-PARTY PACKAGES BY IMRAN DEV BD (imrandevbd)</text>
+    <g transform="translate(20, 32)">
+      <rect width="105" height="40" rx="6" fill="#1e293b"/>
+      <text x="52" y="18" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#ffffff">drutogoti</text>
+      <text x="52" y="32" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">Speed / Cache</text>
+
+      <rect x="115" y="0" width="105" height="40" rx="6" fill="#1e293b"/>
+      <text x="167" y="18" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#ffffff">ai-hub</text>
+      <text x="167" y="32" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">Universal AI</text>
+
+      <rect x="230" y="0" width="105" height="40" rx="6" fill="#1e293b"/>
+      <text x="282" y="18" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#ffffff">ai-catalog</text>
+      <text x="282" y="32" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">Web Scraping</text>
+
+      <rect x="345" y="0" width="125" height="40" rx="6" fill="#1e293b"/>
+      <text x="407" y="18" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#ffffff">attendance-hub</text>
+      <text x="407" y="32" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">ZKTeco Hardware</text>
+
+      <rect x="480" y="0" width="115" height="40" rx="6" fill="#1e293b"/>
+      <text x="537" y="18" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#ffffff">unicode-pdf</text>
+      <text x="537" y="32" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">Bangla/Arabic PDF</text>
+
+      <rect x="605" y="0" width="115" height="40" rx="6" fill="#1e293b"/>
+      <text x="662" y="18" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#ffffff">universal-slug</text>
+      <text x="662" y="32" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">Multi-script Slugs</text>
+
+      <rect x="730" y="0" width="40" height="40" rx="6" fill="#1e293b"/>
+      <text x="750" y="24" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="10" fill="#f59e0b">+1</text>
+    </g>
+  </g>
+
+  <!-- Layer 4: Foundation -->
+  <g transform="translate(45, 340)">
+    <rect width="810" height="55" rx="10" fill="#1e293b" stroke="#64748b"/>
+    <text x="20" y="20" font-family="sans-serif" font-weight="800" font-size="11" fill="#94a3b8">INFRASTRUCTURE &amp; MULTI-TENANCY FOUNDATION</text>
+    <text x="20" y="38" font-family="sans-serif" font-size="11" fill="#e2e8f0">
+      Laravel 12 &bull; PHP 8.4 &bull; BelongsToTenant &amp; BelongsToBranch Scopes &bull; Redis Queues (Horizon) &bull; Sanctum REST API
+    </text>
+  </g>
+</svg>
